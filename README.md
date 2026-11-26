@@ -8,7 +8,7 @@
 
 ## Download
 
-Go to the **Releases** page of this repository and download the newest `Ryvex-Setup-x.y.z.exe`. Run it, pick an install folder, and finish.
+**[Download the latest version](https://github.com/kiingprints/RYVEX-Releases/releases/latest)**, then under **Assets** choose `Ryvex-Setup-x.y.z.exe`. Run it, pick an install folder, and finish.
 
 - Windows 10 or 11, 64-bit.
 - Your music, mixes, settings and cue points are stored in your user folder, not the install folder, so updating or reinstalling never touches them.
